@@ -2,6 +2,7 @@
 
 - [39c3 Start Page](https://events.ccc.de/congress/2025/infos/startpage.html)
 - [39c3.c3nav](https://39c3.c3nav.de/)
+- [2nd Hand Ticketshop](https://tickets.events.ccc.de/39c3/secondhand/?item=&sort=price_asc)
 
 ## Assemblies
 
