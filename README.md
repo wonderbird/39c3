@@ -9,6 +9,10 @@
 - [Binary Kitchen](https://39c3.c3nav.de/l/binarykitchen/) Assembly, I8, Hall 4, Level 0
 - [Hardware Hacking Area](https://39c3.c3nav.de/l/hardwarehackingarea/) Assembly, G5-G6, Hall 3, Level 0
 
+## Day 1
+
+- [SoS Lecture E](https://39c3.c3nav.de/l/sos-e/) Self-organized Sessions, A5-B7, Hall E, Level 2
+
 ## More is coming soon (TM) ...
 
 ```text
